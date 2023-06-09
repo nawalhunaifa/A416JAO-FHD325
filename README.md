@@ -21,13 +21,13 @@ Laptop spec :
 
 | Feature                              | Status | Dependency          |
 | :----------------------------------- | ------ | ------------------- |
-| QE/CI Enabled Graphics               | ✅   | Config Inject + WhateverGreen.kext |
+| QE/CI Enabled Graphics               | ✅ | Config Inject + WhateverGreen.kext |
 | Brightness Adjustments               | ✅   | BrightnessAdjust.kext + WhateverGreen.kext |
-| CPU Power Management               | WIP   | CPUFriend.kext Costum |
-| Intel SST             | ni plr ga support/wip  | DSDT Patch + AppleALC.kext + layout Id |
+| CPU Power Management               | ✅   | CPUFriend.kext Costum |
+| Audio (C-Media(R))     | ✅  | UTBMap.kext + USBToolBox.kext |
 | Trackpad ASUEI2C    | ✅   | VoodoI2C.kext + VoodoI2CHID.kext |
-| FN Keys                 | WIP   | DSDT Patch |
-| Keyboard backlight      | WIP| AsusSMC.kext + DSDT Patch |
+| FN Keys                 | ✅   | DSDT Patch |
+| Keyboard backlight      | ✅ | AsusSMC.kext + DSDT Patch |
 | Battery Indicator                    | ✅   | ECEnabler.kext + Lilu.kext |
 | USB 3.0 and Type-C         | ✅   | SSDT Patch |
 | Sleep,Restart and Shutdown                      | ✅   | DSDT Patch |
@@ -41,7 +41,7 @@ Laptop spec :
 | Feature                              | Status | Dependency          |
 | :----------------------------------- | ------ | ------------------- |
 | Builtin WebCam              | ❌   | Feature = Bugs |
-| HDMI out and Audio                | ❌   | Icelake lmao |
+| HDMI out                | ❌   | Icelake lmao |
 
 
 </details>
