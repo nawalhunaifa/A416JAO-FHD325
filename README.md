@@ -1,6 +1,8 @@
 # A416JAO-FHD325
 EFI file for Asus A416JAO-FHD325
 
+![Screenshot](/screenshot.png)
+
 Laptop spec :
 - [x] <b>Model</b>: Asus A416JAO-FHD325
 - [x] <b>CPU</b>: Intel i3-1005G1 (10rd Gen)
