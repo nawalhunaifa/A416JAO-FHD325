@@ -3,6 +3,8 @@ EFI file for Asus A416JAO-FHD325
 
 ![Screenshot](/screenshot.png)
 
+⚠️ [Ventura](https://github.com/nawalhunaifa/A416JAO-FHD325/tree/ventura) (Different Because AirportItlwm + BlueToolFixUP)
+
 Laptop spec :
 - [x] <b>Model</b>: Asus A416JAO-FHD325
 - [x] <b>CPU</b>: Intel i3-1005G1 (10rd Gen)
