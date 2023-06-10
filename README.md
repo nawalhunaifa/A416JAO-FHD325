@@ -1,7 +1,7 @@
 # A416JAO-FHD325
 EFI file for Asus A416JAO-FHD325
 
-![Screenshot](/screenshot.png)
+![Screenshot](/screenshotventura.png)
 
 Laptop spec :
 - [x] <b>Model</b>: Asus A416JAO-FHD325
